@@ -24,6 +24,7 @@ use api :-
 post auth/signup (user signup or register)
 post auth/login  ( user login and get the token )
 
+
 post users/  ( get all user details only admin)
 post users/:id ( can update only by admin )
 
